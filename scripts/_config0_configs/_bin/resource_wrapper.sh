@@ -6,6 +6,6 @@
 #
 set -euo pipefail
 
-echo "resource_wrapper v3"
+echo "resource_wrapper v4"
 
 exec "$@"
